@@ -246,6 +246,12 @@ function metaBoxGroup( $meta_boxes ) {
                 'id'   => $prefix . 'highlight_images',
 				
             ],
+			[
+                'type' => 'single_image',
+                'name' => esc_html__( 'Thumb', 'my-portfolio-metabox' ),
+                'id'   => $prefix . 'thumb_images',
+				
+            ],
             [
                 'type' => 'image_advanced',
                 'name' => esc_html__( 'BG Images', 'my-custom-metabox' ),
@@ -290,6 +296,12 @@ function metaBoxGroupPortfolio( $meta_boxes ) {
                 'type' => 'single_image',
                 'name' => esc_html__( 'Highlight', 'my-portfolio-metabox' ),
                 'id'   => $prefix . 'highlight_images',
+				
+            ],
+            [
+                'type' => 'single_image',
+                'name' => esc_html__( 'Thumb', 'my-portfolio-metabox' ),
+                'id'   => $prefix . 'thumb_images',
 				
             ],
             [
