@@ -2,7 +2,7 @@
 
 ![Headless WordPress Theme](https://wp.shouman.xyz/wp-content/themes/headless-wordpress-base/screenshot.png)
 
-Headless is a WordPress theme intended to be used in JAMStack projects when a WordPress admin experience is desired but the frontend is implemented with Next, React, Gatbsy, 11ty, etc.
+HEADless by Rafael Shouman is a WordPress theme intended to be used in JAMStack projects when a WordPress admin experience is desired but the frontend is implemented with Next, React, Gatbsy.
 
 ## Highlights
 
@@ -14,6 +14,11 @@ Headless is a WordPress theme intended to be used in JAMStack projects when a Wo
 - Custom menu ordering in `functions.php`
 - Disabled RSS feed in `functions.php`
 - ACF "nullify empty values" in `functions.php`
+
+## Dependencies
+
+1. MB rest api (Plugin for WP)
+1. Meta-Box (Plugin for WP)
 
 ## Usage
 
