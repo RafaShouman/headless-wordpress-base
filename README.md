@@ -1,6 +1,6 @@
 # Headless
 
-![Headless WordPress Theme](https://raw.githubusercontent.com/arnonate/headless-wordpress/master/screenshot.png)
+![Headless WordPress Theme](https://wp.shouman.xyz/wp-content/themes/headless-wordpress-base/screenshot.png)
 
 Headless is a WordPress theme intended to be used in JAMStack projects when a WordPress admin experience is desired but the frontend is implemented with Next, React, Gatbsy, 11ty, etc.
 
